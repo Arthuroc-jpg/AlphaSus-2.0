@@ -90,16 +90,16 @@ you can use the generic selector below, but it's slower:
 	content: "\31";
 }
 .arrow_carrot-up:before {
-	content: "\32";
+	content: "🠕";
 }
 .arrow_carrot-down:before {
 	content: "\33";
 }
 .arrow_carrot-left:before {
-	content: "\34";
+	content: "❮";
 }
 .arrow_carrot-right:before {
-	content: "\35";
+	content: "❯";
 }
 .arrow_carrot-2up:before {
 	content: "\36";
