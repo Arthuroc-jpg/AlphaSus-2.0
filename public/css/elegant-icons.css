@@ -90,7 +90,7 @@ you can use the generic selector below, but it's slower:
 	content: "\31";
 }
 .arrow_carrot-up:before {
-	content: "🠕";
+	content: "▲";
 }
 .arrow_carrot-down:before {
 	content: "\33";
